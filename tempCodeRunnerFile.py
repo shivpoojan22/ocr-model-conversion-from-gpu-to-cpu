@@ -1,0 +1,1 @@
+ results = reader.readtext(frame)
